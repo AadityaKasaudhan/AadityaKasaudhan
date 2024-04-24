@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityakasaudhan&label=Profile%20views&color=0e75b6&style=flat" alt="aadityakasaudhan" /> </p>
 - 🔭 I’m currently working on **OrangeStarLogistics**
 
-- 🌱 I’m currently learning **AWS, Azure**
+- 🌱 I’m currently learning **AWS, Azure, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AadityaKasaudhan](https://github.com/AadityaKasaudhan)
 
