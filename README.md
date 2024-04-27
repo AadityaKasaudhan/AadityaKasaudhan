@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AadityaKasaudhan](https://github.com/AadityaKasaudhan)
 
-- 💬 Ask me about **Java, JavaScript, Mern**
+- 💬 Ask me about **Java, JavaScript, Mern - Mean**
 
 - 📫 How to reach me **adityakas1907@gmail.com**
 
